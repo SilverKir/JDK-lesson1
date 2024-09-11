@@ -9,3 +9,9 @@ ivan: hkhkjh
 ivan: dsrbyekj
 ivan: Выкидывает сервер
 Ваня: Бывает
+Петр : Привет
+ivan : Hi
+ivan : Привет!
+Петр : Привет!
+ivan : И тебе привет!
+ivan : ghgh
